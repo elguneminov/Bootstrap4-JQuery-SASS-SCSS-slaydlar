@@ -1,1 +1,1 @@
-# Bootstrap4-JQuery-SASS-SCSS-slaydlar
+# Bootstrap4, JQuery, SASS ve SCSS turkce slaydlar
